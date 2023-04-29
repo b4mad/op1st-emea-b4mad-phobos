@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
 - local-storage
 - lvm-storage
+- cert-manager-operator
