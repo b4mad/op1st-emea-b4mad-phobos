@@ -4,3 +4,4 @@ resources:
 - local-storage
 - lvm-storage
 - cert-manager-operator
+- grafana-operator
