@@ -5,3 +5,4 @@ resources:
 - lvm-storage
 - cert-manager-operator
 - grafana-operator
+- crunchy-postgres
